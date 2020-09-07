@@ -1,5 +1,6 @@
 ### Hi there 👋
-https://github-readme-stats.vercel.app/api/top-langs/?username=maiyuri&layout=compact&theme=synthwave
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maiyuri&layout=compact&theme=synthwave)
 <!--
 **maiyuri/maiyuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
