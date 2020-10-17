@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, Seja Bem Vindo(a)! 👋
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maiyuri&layout=compact&theme=synthwave)
 <!--
